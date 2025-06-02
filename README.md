@@ -7,4 +7,6 @@ This is Andriod Assignment set-1 and source code of first thrre question have be
 
 # Question 2 was to implement HashMap without any biult-in function
    To run this code use: g++ HashMap.cpp -o HashMap && ./HashMap
+
+Question 3 source cod eis provided in master branch
     
